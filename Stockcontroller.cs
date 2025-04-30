@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using api.Data;
 using api.Models;
-using api.DTOs.Stock;  // Assuming you have the Stock model in this namespace
+using api.DTOs.Stock;  
 using System.Linq;
 
 namespace api.Controllers
